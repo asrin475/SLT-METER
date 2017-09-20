@@ -1,0 +1,3 @@
+files:
+  - source: /*.xml
+    translation: /translated/%locale_with_underscore%/string.xml
