@@ -4,14 +4,14 @@
   <!-- AD UNIT IDS USED WITHIN APPLICATION'S ACTIVITY-->
   <string name="AD_UNIT_ID_PROFILE_LIST">ca-app-pub-6271573641072958/4165336422</string>
   <string name="AD_UNIT_ID_SUMMARY">ca-app-pub-6271573641072958/2280670426</string>
-  <string name="action_settings">Settings</string>
+  <string name="action_settings">அமைப்புகள்</string>
   <string name="title_activity_set">SLT Broadband Meter</string>
-  <string name="title_activity_setting">SettingActivity</string>
+  <string name="title_activity_setting">அமைப்புகள்</string>
   <string name="title_activity_itsme">Summary</string>
-  <string name="title_activity_login">User Details</string>
+  <string name="title_activity_login">பயனர் விவரங்கள்</string>
   <string name="title_activity_about">About</string>
-  <string name="title_activity_profile_list">Profiles</string>
-  <string name="title_activity_single_usage">Usage in Detail</string>
+  <string name="title_activity_profile_list">ப்ரோபைல்</string>
+  <string name="title_activity_single_usage">பயன்பாட்டு விவரங்கள்</string>
   <string name="title_activity_vas_details">Extra GB Subscriptions</string>
   <string name="app_name">SLT Broadband Meter</string>
   <string name="app_description">An Android Application to check Broadband Usage with full of features</string>
