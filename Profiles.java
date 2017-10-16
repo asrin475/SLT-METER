@@ -1,5 +1,5 @@
 
-class Profiles extends BaseActivityCompat inplements httpTaskCompletionCallbacks{
+class Profiles extends BaseActivityCompat implements httpTaskCompletionCallbacks{
 
   
   @Override
