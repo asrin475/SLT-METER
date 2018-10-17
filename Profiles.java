@@ -13,7 +13,7 @@ class Profiles extends BaseActivityCompat implements httpTaskCompletionCallbacks
   @Override 
   public void onResponse(){
     /*
-    * handle server response and to parse values
+    * handle server response and to parse values; response 
     */
   }
 }
